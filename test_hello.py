@@ -1,3 +1,5 @@
-Print "Hello Kirk!"
+Print 'Hello Kirk!'
 
-Print "My name is Loren."
+
+Print 'My name is Loren.'
+

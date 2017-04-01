@@ -1,5 +1,8 @@
-Print 'Hello Kirk!'
+print 'Hello Kirk!'
 
 
-Print 'My name is Loren.'
+print 'My name is Loren.'
+
+for i in range(10):
+	print i
 
